@@ -253,3 +253,4 @@ if __name__ == "__main__":
         clear_console()
         print_with_ascii("0.txt", "Прервано пользователем.")
         print_fin()
+

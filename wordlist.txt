@@ -1,0 +1,99 @@
+    time
+
+    person
+
+    year
+
+    way
+
+    day
+
+    thing
+
+    man
+
+    world
+
+    life
+
+    hand
+
+    part
+
+    child
+
+    eye
+
+    woman
+
+    thought
+
+    house
+
+    place
+
+    work
+
+    word
+
+    week
+
+    case
+
+    point
+
+    government
+
+    company
+
+    number
+
+    group
+
+    problem
+
+    fact
+
+    night
+
+    money
+
+    story
+
+    job
+
+    truth
+
+    morning
+
+    power
+
+    hour
+
+    home
+
+    water
+
+    room
+
+    mother
+
+    area
+
+    money
+
+    car
+
+    week
+
+    state
+
+    family
+
+    student
+
+    lot
+
+    right
+
+    study

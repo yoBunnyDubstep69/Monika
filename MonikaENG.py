@@ -253,3 +253,4 @@ if __name__ == "__main__":
         clear_console()
         print_with_ascii("0.txt", "Interrupted by the user.")
         print_fin()
+

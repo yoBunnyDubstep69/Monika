@@ -5,4 +5,4 @@ set -e
 cd "$(dirname "$0")"
 
 # Запустить программу
-python3 Monika.py
+python3 Monika(ENG).py
